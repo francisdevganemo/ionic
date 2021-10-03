@@ -1,0 +1,7 @@
+{
+  "name": "Lucero",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
